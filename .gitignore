@@ -1,0 +1,6 @@
+# .gitignore file content
+node_modules/
+.env
+dist/
+.DS_Store
+coverage/
